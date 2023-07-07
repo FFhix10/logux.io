@@ -86,7 +86,7 @@
     "serve": "^12.0.0",
     "simple-git-hooks": "^2.4.1",
     "size-limit": "^4.12.0",
-    "stylelint": "^13.13.1",
+    "stylelint": "^15.10.1",
     "svgo": "^2.3.0"
   },
   "repository": "logux/logux.io",
